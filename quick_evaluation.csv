@@ -1,0 +1,101 @@
+actual_queue,actual_priority,pred_queue,pred_priority,valid_json
+Product Support,high,Technical Support,high,True
+Customer Service,medium,IT Support,medium,True
+Technical Support,medium,Technical Support,medium,True
+Product Support,high,Technical Support,high,True
+Product Support,high,Product Support,medium,True
+Product Support,medium,Customer Service,medium,True
+Product Support,medium,Product Support,medium,True
+Service Outages and Maintenance,high,Technical Support,medium,True
+IT Support,high,Technical Support,high,True
+Product Support,medium,Technical Support,high,True
+Billing and Payments,medium,Billing and Payments,medium,True
+Returns and Exchanges,low,Billing and Payments,medium,True
+Technical Support,high,Technical Support,high,True
+Technical Support,high,Technical Support,high,True
+IT Support,medium,Technical Support,low,True
+Product Support,low,Technical Support,high,True
+IT Support,high,Customer Service,medium,True
+Customer Service,medium,Technical Support,high,True
+Customer Service,medium,IT Support,medium,True
+IT Support,high,Customer Service,medium,True
+Technical Support,high,Technical Support,high,True
+Technical Support,high,Technical Support,high,True
+Billing and Payments,low,Billing and Payments,medium,True
+General Inquiry,high,Technical Support,medium,True
+Customer Service,medium,Product Support,medium,True
+Service Outages and Maintenance,medium,Service Outages and Maintenance,high,True
+Product Support,medium,Product Support,medium,True
+Technical Support,high,Customer Service,medium,True
+Customer Service,medium,Customer Service,medium,True
+Customer Service,low,Customer Service,medium,True
+IT Support,medium,Technical Support,high,True
+Customer Service,high,Customer Service,medium,True
+Returns and Exchanges,medium,Product Support,medium,True
+Product Support,medium,Technical Support,high,True
+Billing and Payments,low,Product Support,medium,True
+Customer Service,medium,Technical Support,high,True
+IT Support,medium,Technical Support,medium,True
+Returns and Exchanges,high,Customer Service,medium,True
+Service Outages and Maintenance,high,IT Support,high,True
+Product Support,high,Product Support,medium,True
+General Inquiry,low,Technical Support,high,True
+IT Support,high,Product Support,medium,True
+Technical Support,high,Technical Support,high,True
+Service Outages and Maintenance,high,Billing and Payments,medium,True
+Product Support,low,Product Support,medium,True
+Customer Service,low,Customer Service,medium,True
+Customer Service,medium,Customer Service,medium,True
+Service Outages and Maintenance,high,Product Support,high,True
+Product Support,high,Technical Support,high,True
+Customer Service,low,Customer Service,medium,True
+Customer Service,medium,IT Support,high,True
+Service Outages and Maintenance,high,Product Support,medium,True
+Sales and Pre-Sales,medium,Technical Support,high,True
+Technical Support,high,Technical Support,high,True
+IT Support,low,Technical Support,high,True
+Technical Support,high,IT Support,high,True
+Returns and Exchanges,high,Customer Service,medium,True
+Service Outages and Maintenance,low,Service Outages and Maintenance,high,True
+Customer Service,medium,Product Support,medium,True
+IT Support,high,Technical Support,medium,True
+Product Support,medium,Product Support,medium,True
+IT Support,high,Technical Support,high,True
+Service Outages and Maintenance,low,Service Outages and Maintenance,high,True
+IT Support,high,Technical Support,high,True
+Returns and Exchanges,low,Customer Service,medium,True
+IT Support,medium,Technical Support,high,True
+Product Support,high,Technical Support,low,True
+Customer Service,low,Technical Support,high,True
+Service Outages and Maintenance,low,Service Outages and Maintenance,high,True
+Customer Service,medium,Technical Support,high,True
+Product Support,medium,Technical Support,high,True
+Customer Service,medium,IT Support,high,True
+IT Support,high,IT Support,high,True
+Technical Support,high,Customer Service,medium,True
+Technical Support,low,Technical Support,medium,True
+Technical Support,medium,Technical Support,high,True
+Customer Service,low,Customer Service,medium,True
+Customer Service,medium,Product Support,medium,True
+Sales and Pre-Sales,low,Product Support,medium,True
+Customer Service,low,Customer Service,medium,True
+IT Support,medium,Technical Support,low,True
+Product Support,medium,Technical Support,high,True
+Product Support,medium,Technical Support,high,True
+Technical Support,medium,Technical Support,high,True
+Technical Support,medium,Product Support,medium,True
+Technical Support,medium,Technical Support,high,True
+Technical Support,high,Technical Support,high,True
+Billing and Payments,high,Billing and Payments,medium,True
+Technical Support,high,Technical Support,high,True
+Technical Support,medium,Technical Support,high,True
+Product Support,medium,Product Support,medium,True
+Product Support,low,Technical Support,high,True
+Billing and Payments,medium,Billing and Payments,medium,True
+Billing and Payments,medium,Billing and Payments,high,True
+Technical Support,medium,Technical Support,high,True
+Technical Support,high,Technical Support,high,True
+Sales and Pre-Sales,low,Product Support,medium,True
+Technical Support,medium,Technical Support,high,True
+Customer Service,medium,Technical Support,medium,True
+IT Support,medium,IT Support,medium,True

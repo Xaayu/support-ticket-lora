@@ -1,0 +1,11 @@
+checkpoints/
+*.pt
+*.pth
+*.bin
+!training_args.bin
+train.csv
+validation.csv
+test.csv
+.env
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,13 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct + LoRA",
+  "training_epochs": 1,
+  "training_steps": 1188,
+  "final_training_loss": 0.16949035,
+  "final_validation_loss": 0.17613,
+  "evaluation_samples": 100,
+  "queue_accuracy": 0.43,
+  "queue_macro_f1": 0.32015014,
+  "priority_accuracy": 0.39,
+  "priority_macro_f1": 0.29572119,
+  "valid_json_rate": 1.0
+}
